@@ -1,0 +1,92 @@
+.PlayBackRatePanel {
+  color: #cfcfcf;
+  font-size: 14px;
+  z-index: 999999;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  display: inline;
+  height: 24px;
+}
+
+.PlayBackRatePanelFullScreen {
+  color: #cfcfcf;
+  font-size: 14px;
+  z-index: 999999;
+  position: absolute;
+  right: 60px;
+  top: 2px;
+  display: inline;
+  height: 24px;
+}
+
+.ysc-btn {
+  background: rgba(255, 255, 255, 0.15);
+  color: #0f0;
+  height: 100%;
+  text-decoration: none;
+  font-size: 12px;
+  border: 0px;
+}
+
+.ysc-btn::-moz-focus-inner {
+  border: 0;
+}
+
+.ysc-btn-left {
+  -moz-border-radius-topleft: 5px;
+  -webkit-border-top-left-radius: 5px;
+  border-top-left-radius: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.ysc-btn-right {
+  -moz-border-radius-topright: 5px;
+  -webkit-border-top-right-radius: 5px;
+  border-top-right-radius: 5px;
+  -moz-border-radius-bottomright: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.ysc-btn:hover {
+  background: rgba(255, 255, 255, 0.85);
+  color: #f0f;
+  text-decoration: none;
+}
+
+.ysc-btn:focus {
+  outline: 0;
+}
+
+#SpeedDown, #SpeedUp {
+  float: right;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 0 5px;
+  min-width: 20px;
+  text-align: center;
+  height: 24px;
+}
+
+#TinySpeedDown, #TinySpeedUp, #LargeSpeedDown, #LargeSpeedUp, #TinyTinySpeedDown, #TinyTinySpeedUp, #ExLargeSpeedDown, #ExLargeSpeedUp {
+  /* 为新按钮添加样式 */
+  float: right;
+  padding: 0 5px;
+  line-height: 24px;
+}
+
+#PlayBackRate {
+  float: right;
+  color: #0f0;
+  vertical-align: middle;
+  text-align: center;
+  width: 40px;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  line-height: 20px;
+  border-bottom: thin solid rgba(255, 255, 255, 0.3);
+  border-top: thin solid rgba(255, 255, 255, 0.3);
+  padding: 0px;
+}

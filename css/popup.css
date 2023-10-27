@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    /* height: 550px; */
+    font-size: 12px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between; /* 分隔左右两部分的内容 */
+    align-items: center;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+
+.header img.logo {
+    max-width: 24px;
+    padding: 0 0px;
+    margin-right: 6px;
+}
+
+.header-title {
+    font-weight: 700;
+}
+
+.left-section, .right-section {
+    display: flex;
+    align-items: center;
+}
+
+.color-icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    cursor: pointer; /* 可点击的外观 */
+}
+
+.content {
+    padding: 0 10px 0px;
+}
+
+.row-title {
+    margin: 8px 0;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.row.keybindings-content {
+    margin-bottom: 4px;
+}
+
+.row input[type="checkbox"],
+.row input[type="radio"] {
+    margin-right: 10px;
+}
+
+.row input[type="text"],
+.row select {
+    width: 40%;
+    height: 20px;
+    box-sizing: border-box;
+}
+
+input,
+select {
+    font-size: 12px;
+}
+
+.row.mouse-content,
+.row.memory-content,
+.row.display-content {
+    text-align: left;
+    justify-content: flex-start;
+    /* 使内容靠左对齐 */
+}
+
+.button-section {
+    margin-top: 20px;
+    text-align: center;
+}
+
+button {
+    border: none;
+    padding: 2px 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#status {
+    text-align: center;
+    margin-top: 2px;
+}
+
+.status-message {
+    margin-top: 2px; /* 设置顶部外边距，与上面的元素分隔开 */
+    padding-bottom: 5px; 
+    font-weight: bold; 
+}
+
+.add-line {
+    border: 0; 
+    height: 1px; 
+    margin-top: 0px; /* 上边距 */
+    margin-bottom: 0px; /* 下边距 */
+}

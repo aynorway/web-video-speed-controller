@@ -1,0 +1,41 @@
+body {
+    background-color: #feedf5;
+    color: #fa6393;
+    /* 默认文本颜色 */
+}
+
+.header {
+    background-color: #EC739A;
+    /* border: 1px solid #EC739A; */
+}
+
+.header-title {
+    color: #fff;
+}
+
+.row input[type="text"],
+.row select {
+    border: 1px solid #ff3777;
+}
+
+input,
+select {
+    background-color: #fff;
+    color: #EE326A;
+}
+
+.status-message {
+    color: #fa6393;
+}
+
+button {
+    background-color: #fa6393;
+    border: 1px solid #EC739A;
+    color: #feedf5;
+
+}
+
+button:hover {
+    background-color: #EE326A;
+    color: #fff;
+}

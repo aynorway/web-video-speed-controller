@@ -1,0 +1,59 @@
+{
+  "name": "Web Video Speed Controller",
+  "version": "2.0",
+  "manifest_version": 3,
+  "description": "This browser extension allows users to effortlessly control the playback speed of any online video.",
+  "homepage_url": "https://github.com/aynorway",
+  "icons": {
+    "16": "icons/icon5k.png",
+    "48": "icons/icon5k.png",
+    "128": "icons/icon5k.png"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "storage",
+    "webRequest"
+  ],
+  "host_permissions": [
+    "http://www.youtube.com/*",
+    "https://www.youtube.com/*",
+    "<all_urls>"
+  ],
+  "options_ui": {
+    "page": "src/option/options.html",
+    "open_in_tab": true
+  },
+  "background": {
+    "service_worker": "src/background.js"
+  },
+  "action": {
+    "default_title": "Control speed of the youtube playback using a keyboard.",
+    "default_icon": {
+      "19": "icons/icon5k.png",
+      "38": "icons/icon5k.png"
+    },
+    "default_popup": "src/option/popup.html"
+  },
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "matches": [
+        "http://www.youtube.com/*",
+        "https://www.youtube.com/*",
+        "<all_urls>"
+      ],
+      "css": [
+        "css/inject.css"
+      ],
+      "js": [
+        "src/inject/inject.js"
+      ]
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{cfd7cc14-ef7c-4044-8b3d-06110d1ab378}"
+    }
+  }
+}
