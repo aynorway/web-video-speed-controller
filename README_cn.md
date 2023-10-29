@@ -52,7 +52,7 @@
 | ![Chrome Settings](pics/1.png) | ![Chrome Settings](pics/2.png) |
 |:--:|:--:| 
 
-| ![Firefox Settings](pics/3.png) | ![Chrome Settings](pics/4.png) |
+| ![Chrome Settings](pics/3.png) | ![Chrome Settings](pics/4.png) |
 |:--:|:--:| 
 
 ## 建议和反馈
