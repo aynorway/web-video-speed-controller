@@ -55,6 +55,11 @@ Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I dev
 | ![Chrome Settings](pics/3.png) | ![Chrome Settings](pics/4.png) |
 |:--:|:--:| 
 
+## Visit Firefox Add-ons Store to download
+Extension Name: Web Video Speed Controller
+Compatible With: Firefox Browser
+Download Link: Visit Firefox Add-ons Store to download Web Video Speed Controller
+
 ## Suggestions and Feedback
 
 Thank you for your support and use! If you encounter any issues or have any suggestions during use, please feel free to contact me.
