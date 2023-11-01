@@ -56,9 +56,10 @@ Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I dev
 |:--:|:--:| 
 
 ## Visit Firefox Add-ons Store to download
+
 Extension Name: Web Video Speed Controller
 Compatible With: Firefox Browser
-Download Link: Visit Firefox Add-ons Store to download Web Video Speed Controller
+Download Link: [Visit Firefox Add-ons Store to download Web Video Speed Controller](https://addons.mozilla.org/en-CA/firefox/addon/web-video-speed-controller/)
 
 ## Suggestions and Feedback
 
