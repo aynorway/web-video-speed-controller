@@ -4,7 +4,7 @@
 
 <img src="icons/icon5k.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;">
 
-# Web Video Speed Controller Extension
+# [Web Video Speed Controller Extension (For Both Google Chrome & FireFox Browsers)](https://github.com/aynorway/web-video-speed-controller)
 
 This browser extension allows users to effortlessly control the playback speed of any online video.
 

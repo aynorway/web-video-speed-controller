@@ -4,7 +4,7 @@
 
 <img src="icons/icon5k.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;">
 
-# 网络视频速度控制扩展
+# [网络视频-速度控制-插件扩展 (适用:谷歌浏览器&火狐浏览器)](https://github.com/aynorway/web-video-speed-controller)
 
 此浏览器扩展允许用户轻松控制任何在线视频的播放速度。
 
