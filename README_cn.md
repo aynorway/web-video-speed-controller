@@ -55,6 +55,12 @@
 | ![Chrome Settings](pics/3.png) | ![Chrome Settings](pics/4.png) |
 |:--:|:--:| 
 
+## 访问Firefox扩展商店进行下载
+
+扩展名称：网络视频速度控制器  
+适用于：Firefox浏览器  
+下载链接：[点击此处访问Firefox扩展商店下载网络视频速度控制器](https://addons.mozilla.org/zh-CN/firefox/addon/web-video-speed-controller/)
+
 ## 建议和反馈
 
 感谢您的支持与使用！如果在使用过程中遇到任何问题或有任何建议，欢迎联系我。
