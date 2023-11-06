@@ -12,6 +12,8 @@ This browser extension allows users to effortlessly control the playback speed o
 
 Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I developed in my spare time. It allows users to freely control the playback speed of almost any online video, with perfect compatibility for YouTube. Not just specific to certain video services, it's suitable for nearly all websites using standard video players, such as Vimeo, Bilibili, Youku, etc. It caters to those who require precise speed adjustments, with an accuracy of 0.01x and up to 16x speed. The extension is compatible with both Chrome and Firefox browsers. It's currently available for free, and I hope it helps you all!
 
+This software does not utilize an open source license; click [here](JS_File_Disclosure_Explanation.md) for the rationale.
+
 ## User Interface 
 
 | ![YouTube Interface](src/option/pics/Demo-youtube.png) |
