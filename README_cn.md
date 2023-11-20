@@ -63,6 +63,12 @@
 适用于：Firefox浏览器  
 下载链接：[点击此处访问Firefox扩展商店下载网络视频速度控制器](https://addons.mozilla.org/zh-CN/firefox/addon/web-video-speed-controller/)
 
+## 访问Chrome网上应用店下载
+
+**扩展名称**: Web视频速度控制器  
+**兼容浏览器**: Chrome浏览器  
+**下载链接**: [访问Chrome网上应用店下载Web视频速度控制器](https://chromewebstore.google.com/detail/web-video-speed-controlle/aehooioefgnglgpgneckhcbhefkmhlpn?utm_source=chrome-ntp-icon)
+
 ## 建议和反馈
 
 感谢您的支持与使用！如果在使用过程中遇到任何问题或有任何建议，欢迎联系我。

@@ -63,6 +63,12 @@ Extension Name: Web Video Speed Controller
 Compatible With: Firefox Browser  
 Download Link: [Visit Firefox Add-ons Store to download Web Video Speed Controller](https://addons.mozilla.org/en-CA/firefox/addon/web-video-speed-controller/)
 
+## Visit Chrome Web Store to Download 
+
+**Extension Name**: Web Video Speed Controller  
+**Compatible With**: Chrome Browser  
+**Download Link**: [Visit Chrome Web Store to download Web Video Speed Controller](https://chromewebstore.google.com/detail/web-video-speed-controlle/aehooioefgnglgpgneckhcbhefkmhlpn?utm_source=chrome-ntp-icon)
+
 ## Suggestions and Feedback
 
 Thank you for your support and use! If you encounter any issues or have any suggestions during use, please feel free to contact me.
