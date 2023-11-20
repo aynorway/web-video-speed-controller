@@ -57,11 +57,11 @@ This software does not utilize an open source license; click [here](JS_File_Disc
 | ![Chrome Settings](pics/3.png) | ![Chrome Settings](pics/4.png) |
 |:--:|:--:| 
 
-## Visit Firefox Add-ons Store to download
+## Visit Firefox Add-ons Store to Download 
 
-Extension Name: Web Video Speed Controller  
-Compatible With: Firefox Browser  
-Download Link: [Visit Firefox Add-ons Store to download Web Video Speed Controller](https://addons.mozilla.org/en-CA/firefox/addon/web-video-speed-controller/)
+**Extension Name**: Web Video Speed Controller  
+**Compatible With**: Firefox Browser  
+**Download Link**: [Visit Firefox Add-ons Store to download Web Video Speed Controller](https://addons.mozilla.org/en-CA/firefox/addon/web-video-speed-controller/)
 
 ## Visit Chrome Web Store to Download 
 
